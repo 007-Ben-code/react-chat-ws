@@ -1,0 +1,13 @@
+.header-container{
+    width: 100%;
+}
+
+.header-navbar {
+    height: 100px;
+}
+
+.footer-container{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
